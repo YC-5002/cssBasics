@@ -1,0 +1,20 @@
+.heading{
+    background-color: #427fef;
+    font-weight: bold;
+    color:aliceblue;
+}
+
+table, th, td{
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+.rowdata:nth-child(odd){
+    background-color: #b8c4b4;
+}
+
+tr{
+    border:1px solid #c4dcf3;
+}
+
+/*Reflection in index.html*/
